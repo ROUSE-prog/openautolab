@@ -2,7 +2,7 @@
 
 ## Components to buy
 
-### Main board
+### Main board.
 
 - Arduino Nano
 - 100uH 1A coil
